@@ -1,0 +1,48 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },{
+      "name": "title_color",
+      "value": "#9E9E9E"
+    },
+    {
+      "name": "playground_bg",
+      "value": "#1A1A1A"
+    },
+    {
+      "name": "accent_blue",
+      "value": "#2979FF"
+    },
+    {
+      "name": "crosshair",
+      "value": "#333333"
+    },
+    {
+      "name": "success_green",
+      "value": "#66BB6A"
+    },
+    {
+      "name": "hud_overlay",
+      "value": "#AA000000"
+    },
+    {
+      "name": "surface_dark",
+      "value": "#121212"
+    },
+    {
+      "name": "card_dark",
+      "value": "#232323"
+    }
+    ,
+    {
+      "name": "metrics_card_bg",
+      "value": "#1E1E1E"
+    },
+    {
+      "name": "event_success_green",
+      "value": "#4CAF50"
+    }
+  ]
+}

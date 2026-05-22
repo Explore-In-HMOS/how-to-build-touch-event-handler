@@ -1,0 +1,94 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    }
+    ,
+    {
+      "name": "touch_lab_title",
+      "value": "Touch Laboratory"
+    },
+    {
+      "name": "wearable_precision_subtitle",
+      "value": "Wearable Precision Calibration"
+    },
+    {
+      "name": "metric_touches",
+      "value": "Touches"
+    },
+    {
+      "name": "metric_success",
+      "value": "Success"
+    },
+    {
+      "name": "calibration_zone",
+      "value": "Calibration Zone"
+    },
+    {
+      "name": "waiting_interaction",
+      "value": "Waiting interaction"
+    },
+    {
+      "name": "hover_enter",
+      "value": "Hover Enter"
+    },
+    {
+      "name": "hover_exit",
+      "value": "Hover Exit"
+    },
+    {
+      "name": "interaction_modules",
+      "value": "Interaction Modules"
+    },
+    {
+      "name": "click_event",
+      "value": "Click Event"
+    },
+    {
+      "name": "touch_event",
+      "value": "Touch Event"
+    },
+    {
+      "name": "hover_event",
+      "value": "Hover Event"
+    },
+    {
+      "name": "feedback_fx",
+      "value": "Feedback FX"
+    },
+    {
+      "name": "tap_label",
+      "value": "Tap"
+    }
+    ,
+    {
+      "name": "accuracy_label",
+      "value": "Accuracy: %s"
+    },
+    {
+      "name": "touch_down",
+      "value": "DOWN (%s)"
+    },
+    {
+      "name": "touch_move",
+      "value": "MOVE (%s)"
+    },
+    {
+      "name": "touch_up",
+      "value": "UP (%s)"
+    },
+    {
+      "name": "touch_cancel",
+      "value": "CANCEL"
+    }
+  ]
+}
