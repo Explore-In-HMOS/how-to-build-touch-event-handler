@@ -2,7 +2,7 @@
 
 # How To Build Touch Event Handler
 
-A precision touch interaction laboratory designed for HarmonyOS NEXT wearable devices using ArkTS and ArkUI.
+A precision touch interaction laboratory designed for HarmonyOS wearable devices using ArkTS and ArkUI.
 
 This project demonstrates advanced wearable interaction handling including tap callbacks, touch tracking, hover simulation, hit-test behavior, touch target expansion, and click feedback effects on a circular smartwatch interface.
 
